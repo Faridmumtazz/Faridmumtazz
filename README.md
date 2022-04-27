@@ -1,14 +1,14 @@
 ### Hi there 👋, 
 ## I'm Mumtaz Farid Wijaya
-#### Learn to be a software developer
+#### Learn to be a software development
 
 
-I am Mumtaz Farid Wijaya, an electrical engineering student at the University of Lampung, concentrating on telecommunications and information technology. IT Enthusiast. I really enjoy learning languages for software development, AI development. I study independently at PT. Orbit Venture Indonesia on artificial intelligence.
+I am Mumtaz Farid Wijaya, an electrical engineering student at the University of Lampung, concentrating on telecommunications and information technology. IT Enthusiast. I really enjoy learning languages for software development, AI development. I study independently at PT. Orbit Venture Indonesia on artificial intelligence. and i study independently at Binar Academy on Android Engineering
 
 Skills: Python/ Data Science / ML Developer / HTML / CSS
 
 - 🔭 I’m currently working on Himatro Unila 
-- 🌱 I’m currently learning AI Development 
+- 🌱 I’m currently learning AI Development dan Mobile Development
 - ⚡ Fun fact: I'm arsenal fan 🤣 
 
 
